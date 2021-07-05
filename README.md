@@ -1,2 +1,2 @@
 # tinyone-header
-Great repository names are short and memorable. Need inspiration? How about ubiquitous-garbanzo? 
+ https://arpasaha-as.github.io/tinyone-header/
